@@ -18,7 +18,7 @@ NumberCruncher is a variant of the Guess-That-Number Game.
 ### Installing
 
 In order to run the program you will need to download it from the link below:
-https://github.com/tiagofontcruz/NumberCruncherGame.git
+https://github.com/tiagofontcruz/NumberCruncherGame/archive/refs/heads/main.zip
 
 Unzip the content of the file in your local repository 
 
